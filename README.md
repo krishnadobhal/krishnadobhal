@@ -14,7 +14,6 @@
 
 -   [cite_start]🌱 I’m currently a **Software Developer Intern** at **Ant Works Financial Buddy**[cite: 10, 11].
 -   [cite_start]💻 I have hands-on experience with modern frameworks like React, Next.js, Node.js, and Spring Boot[cite: 7].
--   [cite_start]🔧 I am skilled in Git, CI/CD, and unit testing within Agile teams[cite: 8].
 -   [cite_start]📫 You can reach me at: **krishnadobhal234@gmail.com** [cite: 3]
 
 ---
