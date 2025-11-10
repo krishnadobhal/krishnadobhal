@@ -1,7 +1,7 @@
 # Hi there, I'm Krishna Dobhal 👋
 
 <a href="https://www.linkedin.com/in/krishnadobhal/">
-  <img align="left" alt="Krishna's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/@hyper.fun/carbon-icon-logo-linkedin@1.3.0/esm/index.min.js />
+  <img align="left" alt="Krishna's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://leetcode.com/u/KrishnaDobhal/">
   <img align="left" alt="Krishna's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
@@ -45,7 +45,6 @@ I'm a detail-oriented Full Stack Software Engineer based in Gurugram, Haryana[ci
 **Databases & Servers:**
 <p>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Amazon S3" src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"></a>
 </p>
@@ -65,22 +64,22 @@ I'm a detail-oriented Full Stack Software Engineer based in Gurugram, Haryana[ci
         <li>Developed a watch service to dynamically serve .m3u8 files for adaptive streaming.</li>
       </ul>
       <p><strong>Tech Stack:</strong> Next.js, TypeScript, Node.js, Kafka, AWS S3, Prisma, FFmpeg.</p>
-      <a href="#">View Code</a> • <a href="#">Live Demo</a>
+      <a href="https://github.com/krishnadobhal/Video-Streaming">View Code</a>
     </td>
     <td width="50%" valign="top">
       <h3>URL Shortner</h3>
-      <p> **Microservices Architecture:** Designed, built, and deployed a three-microservice platform (Spring Boot for URL,
+      <p> Microservices Architecture: Designed, built, and deployed a three-microservice platform (Spring Boot for URL,
 Node.js/TypeScript for ID/Analytics) to manage the full URL shortening lifecycle.</p>
       <ul>
-        <li> **Distributed ID Generation:** Engineered a fault-tolerant ID generation service using sharded PostgreSQL and
+        <li> Distributed ID Generation: Engineered a fault-tolerant ID generation service using sharded PostgreSQL and
 transactional row locking (FOR UPDATE) to ensure unique, concurrent short code allocation.</li>
-        <li>**Data Pipeline & Analytics:** Established a reliable asynchronous click pipe using Kafka to push events to a
+        <li>Data Pipeline & Analytics: Established a reliable asynchronous click pipe using Kafka to push events to a
 ClickHouse data warehouse for fast, aggregated analytics and reporting.</li>
-        <li> **Optimization & Security:** Optimized URL resolution latency using Redis caching and secured the API using Spring
+        <li> Optimization & Security: Optimized URL resolution latency using Redis caching and secured the API using Spring
 Security with BCrypt hashing for user authentication.</li>
       </ul>
       <p><strong>Tech Stack:</strong> Spring Boot, Node.js, TypeScript, PostgresSQL, Redis, ClickHouse, Kafka, ClickPipe.</p>
-      <a href="#">View Code</a> • <a href="#">Live Demo</a>
+      <a href="https://github.com/krishnadobhal/URL-Shortener">View Code</a> 
     </td>
   </tr>
 </table>
