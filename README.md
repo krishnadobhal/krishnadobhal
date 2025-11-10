@@ -1,20 +1,20 @@
 # Hi there, I'm Krishna Dobhal 👋
 
-<a href="https://www.linkedin.com/in/your-linkedin-profile">
-  <img align="left" alt="Krishna's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/krishnadobhal/">
+  <img align="left" alt="Krishna's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/@hyper.fun/carbon-icon-logo-linkedin@1.3.0/esm/index.min.js />
 </a>
-<a href="https://leetcode.com/your-leetcode-profile/">
+<a href="https://leetcode.com/u/KrishnaDobhal/">
   <img align="left" alt="Krishna's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
 <br />
 <br />
 
-[cite_start]I'm a detail-oriented Full Stack Software Engineer based in Gurugram, Haryana[cite: 2]. I have a strong foundation in Object-Oriented Programming and a passion for building high-quality, scalable applications.
+I'm a detail-oriented Full Stack Software Engineer based in Gurugram, Haryana[cite: 2]. I have a strong foundation in Object-Oriented Programming and a passion for building high-quality, scalable applications.
 
--   [cite_start]🌱 I’m currently a **Software Developer Intern** at **Ant Works Financial Buddy**[cite: 10, 11].
--   [cite_start]💻 I have hands-on experience with modern frameworks like React, Next.js, Node.js, and Spring Boot[cite: 7].
--   [cite_start]📫 You can reach me at: **krishnadobhal234@gmail.com** [cite: 3]
+-    I’m currently a **Software Developer Intern** at **Ant Works Financial Buddy**.
+-   I have hands-on experience with modern frameworks like React, Next.js, Node.js, and Spring Boot.
+- You can reach me at: **krishnadobhal234@gmail.com**.
 
 ---
 
@@ -52,30 +52,34 @@
 
 ---
 
-### 🚀 My Projects
+### My Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>Video Streaming Platform</h3>
-      [cite_start]<p>Designed and developed a microservices-based architecture for video upload, transcoding, and streaming using Kafka for asynchronous communication[cite: 26].</p>
+      <p>Designed and developed a microservices-based architecture for video upload, transcoding, and streaming using Kafka for asynchronous communication[cite: 26].</p>
       <ul>
-        [cite_start]<li>Implemented RESTful APIs for chunked video uploads to Amazon S3[cite: 27].</li>
-        [cite_start]<li>Built a transcode service with FFmpeg to convert videos into HLS-compatible formats[cite: 28].</li>
-        [cite_start]<li>Developed a watch service to dynamically serve .m3u8 files for adaptive streaming[cite: 29].</li>
+        <li>Implemented RESTful APIs for chunked video uploads to Amazon S3.</li>
+        <li>Built a transcode service with FFmpeg to convert videos into HLS-compatible formats.</li>
+        <li>Developed a watch service to dynamically serve .m3u8 files for adaptive streaming.</li>
       </ul>
-      [cite_start]<p><strong>Tech Stack:</strong> Next.js, TypeScript, Node.js, Kafka, AWS S3, Prisma, FFmpeg[cite: 25].</p>
+      <p><strong>Tech Stack:</strong> Next.js, TypeScript, Node.js, Kafka, AWS S3, Prisma, FFmpeg.</p>
       <a href="#">View Code</a> • <a href="#">Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Pet Palace (E-commerce)</h3>
-      [cite_start]<p>Engineered a full-stack pet e-commerce platform featuring secure PayPal integration and semantic product search[cite: 30].</p>
+      <h3>URL Shortner</h3>
+      <p> **Microservices Architecture:** Designed, built, and deployed a three-microservice platform (Spring Boot for URL,
+Node.js/TypeScript for ID/Analytics) to manage the full URL shortening lifecycle.</p>
       <ul>
-        [cite_start]<li>Developed a GraphQL API using Apollo Server and Node.js for efficient data querying[cite: 31].</li>
-        [cite_start]<li>Implemented advanced product search using a vector database[cite: 32].</li>
-        [cite_start]<li>Architected an admin dashboard with real-time analytics for sales and inventory[cite: 33].</li>
+        <li> **Distributed ID Generation:** Engineered a fault-tolerant ID generation service using sharded PostgreSQL and
+transactional row locking (FOR UPDATE) to ensure unique, concurrent short code allocation.</li>
+        <li>**Data Pipeline & Analytics:** Established a reliable asynchronous click pipe using Kafka to push events to a
+ClickHouse data warehouse for fast, aggregated analytics and reporting.</li>
+        <li> **Optimization & Security:** Optimized URL resolution latency using Redis caching and secured the API using Spring
+Security with BCrypt hashing for user authentication.</li>
       </ul>
-      [cite_start]<p><strong>Tech Stack:</strong> Next.js, LangChain, GraphQL, PayPal, Prisma, Google Auth[cite: 30].</p>
+      <p><strong>Tech Stack:</strong> Spring Boot, Node.js, TypeScript, PostgresSQL, Redis, ClickHouse, Kafka, ClickPipe.</p>
       <a href="#">View Code</a> • <a href="#">Live Demo</a>
     </td>
   </tr>
@@ -83,10 +87,10 @@
 
 ---
 
-### 📈 My GitHub Stats
+### My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Krishna's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnadobhal&show_icons=true&theme=radical" alt="Krishna's GitHub Stats">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnadobhal&layout=compact&theme=radical" alt="Top Languages">
 </p>
