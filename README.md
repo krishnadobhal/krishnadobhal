@@ -1,5 +1,7 @@
 # Hi there, I'm Krishna Dobhal 👋
 
+![](https://komarev.com/ghpvc/?username=krishnadobhal&count=100)
+
 <a href="https://www.linkedin.com/in/krishnadobhal/">
   <img align="left" alt="Krishna's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
