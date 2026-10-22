@@ -1,8 +1,3 @@
-
-![Profile views](https://komarev.com/ghpvc/?username=krishnadobhal&color=blueviolet&style=flat)
-
----
-
 <p align="center">
   <img height="195" src="https://streak-stats.demolab.com?user=krishnadobhal&hide_border=true&background=0d1117&stroke=21262d&ring=bd5d42&fire=e36f45&currStreakNum=e6edf3&currStreakLabel=8b949e&sideNums=c9d1d9&sideLabels=8b949e&dates=6e7681" alt="Contribution streak" />
 </p>
