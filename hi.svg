@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="70" viewBox="0 0 600 70">
+  <style>
+    text { font: 600 30px Consolas, 'Courier New', monospace; fill: #bd5d42; }
+    #r { animation: type 3s linear infinite; }
+    .c { animation: cur 3s linear infinite, blink .8s steps(1) infinite; fill: #bd5d42; }
+    @keyframes type { 0% { width: 0 } 40% { width: 288px } 85% { width: 288px } 100% { width: 0 } }
+    @keyframes cur  { 0% { transform: translateX(0) } 40% { transform: translateX(288px) } 85% { transform: translateX(288px) } 100% { transform: translateX(0) } }
+    @keyframes blink { 50% { opacity: 0 } }
+  </style>
+  <clipPath id="k"><rect id="r" x="156" y="0" width="0" height="70"/></clipPath>
+  <text x="156" y="45" clip-path="url(#k)">Hi, I am Krishna</text>
+  <rect class="c" x="156" y="17" width="2" height="36"/>
+</svg>

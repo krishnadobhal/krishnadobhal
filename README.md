@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./hi.svg" alt="Hi, I am Krishna" />
+</p>
+
+<p align="center">
   <img src="./giphy.gif" alt="Animated profile banner" />
 </p>
 
